@@ -4,7 +4,7 @@
 
 I’m Shahin. Experienced with Bootstrap , Sass , Tailwind CSS , NodeJS and versatile professional here. I enjoy collaborating, solution-oriented, and open to learning. I want to be a skillfull Web Developer. I want to utilize my creative thinking style and communication skills to add value to your projects.
 
-Skills:  REACT / JS / HTML / CSS/ NODE JS/ 
+Skills: JS /Bootstrap / Sass / Tailwind CSS / MERN
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning MERN 

@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ahmed Shahin
 #### Web Developer
-![Web Developer](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/433042434_920464312893834_4925714238628522247_n.jpg?stp=dst-jpg_p640x640&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHmh6A3QdqCzk_gkRAxC0SPI8Dpk1cUpm8jwOmTVxSmb-JTLNKekcng_zbPm_KOGxUsxE5JWQgOPg-YgKcpG7at&_nc_ohc=evhEtPKkps4Q7kNvgE_ITJk&_nc_ht=scontent.fdac157-1.fna&oh=00_AYAEej3vJ_kXEy-cU8622UMJ4k2fMC0Bz5gO0PtzQIjZnQ&oe=6692CE5B)
+![Web Developer](https://media.licdn.com/dms/image/D5616AQF4c1U7WRySvA/profile-displaybackgroundimage-shrink_350_1400/0/1720522425014?e=1726099200&v=beta&t=4EsxqIH7VKvZozzrPBz3uKpgKqLXYcZq0wSfCoeNaos)
 
 I’m Shahin. Experienced with Bootstrap , Sass , Tailwind CSS , NodeJS and versatile professional here. I enjoy collaborating, solution-oriented, and open to learning. I want to be a skillfull Web Developer. I want to utilize my creative thinking style and communication skills to add value to your projects.
 
@@ -21,6 +21,4 @@ Skills:  REACT / JS / HTML / CSS/ NODE JS/
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=helloshahin50&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=helloshahin50)  
-
-
 
